@@ -1,0 +1,37 @@
+.topo{
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	height: 80px;
+	background: #4682B4;
+}
+
+#titleTopo{
+	color: white;
+	font-size: 35px;
+	position: relative;
+	top: 20px;
+	
+}
+
+#voltar{
+	position: absolute;
+	color: white;
+	right: 2%;
+	border:thin solid;
+	padding: 10px;
+	top: 20px;
+}
+
+.formulario{
+	position: absolute;
+	top: 150px;
+	left: 50%;
+	width: 300px;
+	margin-left: -150px;
+}
+button{
+	position: absolute;
+	right: 30%;
+}

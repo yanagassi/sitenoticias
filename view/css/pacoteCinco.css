@@ -1,0 +1,80 @@
+body{
+
+	background: snow;
+}
+
+.topo{
+	left: 0;
+	right: 0;
+	top: 0;
+	height: 80px;
+	background: #4682B4;
+}
+
+#TitleNP{
+	color: white;
+	font-size: 30px;
+	position: relative;
+	top:25px;
+	
+}
+#voltar{
+	position: absolute;
+	right: 2%;
+	color: white;
+	border:thin solid;
+	padding: 10px;
+	top: 25px;
+
+}
+
+.areaPost{
+	position: absolute;
+	left: 15%;
+	right: 15%;
+	top: 120px;
+	bottom: 15%;
+	background:#E6E6FA;
+}
+
+#titulo{
+	position: absolute;
+	left: 10%;
+	width: 85%;
+	top: 20px;
+
+}
+
+#labelTit{
+	position: absolute;
+	left: 15px;
+	top: 25px;
+}
+
+#post{
+	position: absolute;
+	top: 80px;
+	left: 10%;
+	width: 85%;
+	height: 73%;
+
+
+}
+
+#labelPost{
+	position: absolute;
+	top: 80px;
+	left: 10px;
+}
+
+#cadastrar{
+	position: absolute;
+	bottom: 2%;
+	right:1%;
+}
+
+#foto{
+	position: absolute;
+	bottom: 0;
+	padding: 10px;
+}

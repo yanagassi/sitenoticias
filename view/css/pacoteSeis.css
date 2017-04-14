@@ -1,0 +1,56 @@
+#titulo{
+	position: absolute;
+	left: 10%;
+	width: 80%;
+	top:100px;
+}
+
+#post{
+	position: absolute;
+	left: 10%;
+	top:150px;
+	width: 80%;
+	height: 60%;
+	margin-top: 1%;
+}
+
+button{
+	position: absolute;
+	bottom:40px;
+	right: 10%;
+	padding:10px;
+}
+
+#titLabel{
+	position: absolute;
+	left:10px;
+	top:105px;
+}
+
+#postLabel{
+	position: absolute;
+	left:10px;
+	top: 160px;
+}
+.topo{
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	height: 80px;
+	background: #4682B4;
+}
+
+#titDiv{
+	font-size: 45px;
+	color: white;
+}
+
+#voltar{
+	position: absolute;
+	color: white;
+	right: 2%;
+	border: thin solid;
+	padding: 10px;
+	top:20px;
+}

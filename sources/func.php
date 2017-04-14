@@ -5,7 +5,7 @@
 		{
 			$server = 'localhost';
 			$user = 'root';
-			$pass = 'yanagassi123';
+			$pass = '';
 			$banco = 'banco';
 			$conn = mysql_connect($server, $user, $pass) or trigger_error(mysql_error(),E_USER_ERROR);
 			$selecao = mysql_select_db($banco) or die ("Não conectado ao Banco de Dados ...". mysql_error());
